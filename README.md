@@ -1,6 +1,6 @@
 # Option-Pricing-Greeks-Binomial-Trinomial-Tree-Models
 
-This repository contains the implementation and analysis for MScFE 620 Derivative Pricing – Group Work Project 1. The project focuses on:
+This repository contains the implementation and analysis. The project focuses on:
 
 Pricing European and American vanilla options using binomial and trinomial tree models.
 
